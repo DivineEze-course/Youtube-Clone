@@ -1,0 +1,70 @@
+body{
+    padding: 0;
+    margin:0;
+}
+.logo{
+    width:30px
+}
+form{
+    width:500px;
+    margin-bottom: 0;
+}
+form{
+    width:650px;
+}
+.nav-right{
+    gap:10px
+}
+.categories{
+    gap: 15px;
+    scrollbar-width: none;
+}
+
+.category{
+    font-size:14px;
+}
+.thumbnail-container{
+    width:fit-content;
+}
+p{
+    font-size: 0.8rem;
+}
+
+.icon{
+    width:35px;
+}
+.title{
+    font-size:1rem;
+    margin-bottom: auto;
+}
+.thumbnail{
+width:350px;
+}
+.col{
+    padding:0;
+}
+
+.main-page{
+    
+    margin-top:70px;
+}
+.link-section > a{
+    display:flex;
+    gap:20px;
+    align-items: center;
+    padding-top: 10px;
+}
+.link-section h6{
+font-weight:normal;
+font-size: .9rem;
+}
+.video-details > h6{
+    font-weight: 500;
+    font-size:0.95rem
+}
+.video-details > p{
+    font-weight: 400;
+    color:grey
+    
+}
+
